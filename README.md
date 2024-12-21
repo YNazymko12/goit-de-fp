@@ -218,15 +218,15 @@ Spark job. Відповідно маєте отримати три такі ск
 
 #### Запис даних у таблицю bronze
 
-![Results](./screens/2_1.jpeg)
+![Results](./screens/2_1.png)
 
 #### Запис даних у таблицю silver
 
-![Results](./screens/2_2.jpeg)
+![Results](./screens/2_2.png)
 
 #### Запис даних у таблицю gold
 
-![Results](./screens/2_3.jpeg)
+![Results](./screens/2_3.png)
 
 #### DAG з усіма відпрацьованими завданнями
 
